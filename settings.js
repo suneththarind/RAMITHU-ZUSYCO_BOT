@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94701628336",
-  SUDO_NUMBERS : "94766632281,94701628336",
-  OWNER_NAME: "Mʀ Rᴀᴍɪᴛʜᴜ",
+  OWNER_NUMBER: "94717120796",
+  SUDO_NUMBERS : "94717120796,94728866985",
+  OWNER_NAME: "Mʀ KESHARA",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -42,7 +42,7 @@ module.exports = {
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : false,
   ANTI_LINK_KICK : false,
-  MAX_SIZE : 500,
+  MAX_SIZE : 2200,
   MOROCCO_NUMBERS : {
         BLOCK : false,
         NOT_WORKING : false,
